@@ -1,0 +1,174 @@
+High Performance Anions Doping Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δ as Cobalt-Free Cathode for Intermediate-Temperature Proton-Conducting Solid Oxide Fuel Cells with BaZr0.1Ce0.7Y0.2O3-δ Electrolyte
+Jingjing Liu, Zongzi Jin, Jinwen Ding, Lina Miao, Zheng Gong, Yuwen Huang, Wei Liu 
+Abstract
+Recently, proton-conducting solid oxide fuel cell was widely application because of its low activation energy and high conductivity at intermediate-temperature. However, cathode material shows poor activity at intermediate-temperature, which restricts the performance of cell. A novel composite cobalt-free cathode consisting of anions (F-) doped Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δ (BCFSY) and SDC shows various encouraging electrochemical properties in proton-conducting solid oxide fell cell (H-SOFC), for the first time. The single cells with the structure of NiO-BaZr0.1Ce0.7Y0.2O3-δ(NiO-BZCY7)|BaZr0.1Ce0.7Y0.2O3-δ(BZCY7)|Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1-SDC. Doping anions (F-) in oxygen sites show excellent electrochemical performance compared to their parent oxides. Achieve maximum power density (MPD) of 961, 1064 mWcm-2 and lower interfacial polarization resistance (Rp) of 0.048, 0.039 Ωcm2 for Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δ and Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1, respectively, at 700°C. Such improved performance is a result of the anions (F-) substitution in oxygen sites, the chemical bonds between B-site cations and oxygen ions are weakened to form an efficient O2- transportation path. While could significantly affect the electronic structure, the change of electronic structure can influence the conductivity of material, the mobility of lattice oxygen and the surface oxygen diffusion coefficient. In addition, in this work, we add a theoretical calculation to explain the effect on electrochemical properties of anions (F-) doping BCFSY cathode. The First-principles calculations based on spin-polarized Density Functional Theory (DFT theory), show that F substitution to O will increase oxygen vacancy formation energy to a certain extent, which contributes to the stability of cubic perovskites. While the introduction of F ions reduces the activation energy required for the migration of oxygen ions in the bulk phase, providing a faster migration path for the transport of oxygen ions, which is beneficial to increase the catalytic activity of oxygen, and the calculation results show that Material electronic conductance will also be improved to some extent. (F-) doping Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δ cathode demonstrated excellent electrochemical performance shows that anions and cations co-doping may provide a highly attractive strategy for the cathode materials in proton-conducting solid oxide fuel cells.
+
+Keyword: Anions, Anions and Cations Co-Doping, Proton-Conducting SOFCs, Cobalt-Free, First-Principles Calculations, Density Functional Theory (DFT Theory) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	INTRODUCTION
+In the past few decades, due to the scarcity of energy and environmental pollution, the demand for new power generation technologies has quickly expanded. Solid oxide fuel cells (SOFCs), as a promising power generation device, can directly convert chemical energy into electric energy without fuel combustion process. SOFCs are provided with some advantages over traditional thermal power systems, such as high chemical-to-electrical conversion efficiency, fuel flexibility and very low greenhouse gas emissions [1-4]. However, at present, the operating temperature of SOFC is high, introducing high cost and inferior long-term stability problems, which are still big challenges for SOFCs commercial applications. As a result, reducing operating temperature of SOFC to 500°C -700°C is the most critical step in developing SOFC commercial application. Lower operating temperature can not only increase chemical compatibility between the cell components, but also improve the cell's working life [5, 6]. SOFC consists of anode, electrolyte, cathode and component materials. The electrolyte material and cathode material have the most important effect on the performance of the cell. For electrolyte materials, high ionic conductivity is the crucial factor for obtaining high performance of SOFC at intermediate-temperature, which can effectively reduce the ohm resistance of the cell. BaCeO3-based and BaZrO3-based electrolyte with adequate proton conductivity is widely studied by now. Unfortunately, BaCeO3-based electrolyte exhibit an unstable nature in the working environment, thus limiting its commercial application [7]. BaZrO3-based electrolyte has an excellent chemical stability, but the high sintering temperature of the cell increases the cost of the cell, and its highly resistive grain boundary leads to a low total conductivity also limiting commercial application of the cell [8, 9]. However, BaZr0.1Ce0.7Y0.2O3-δ (BZCY7) exhibits both adequate proton conductivity and sufficient chemical stability at intermediate-temperature, and has been widely used as electrolyte of H-SOFC. For cathode materials, determines the polarization resistance of the cell, a simple decrease in operation temperature of H-SOFCs to the intermediate-temperature range is always accompanied by an reduction of cathode activity, lead an undesired sharp increase in the cell polarization resistance, and decrease in the cell power density [10, 11]. Doping is one of the effective strategies to solve the low activity of cathode material at intermediate-temperature, including cations doping in A-site, B-site and anions doping in the oxygen site. For cations doping, cobalt-containing perovskite-type oxides that show favorable catalytic activity at intermediate temperatures (500℃-800°C) have been used as cathodes for H-SOFCs, such as Sm0.5Sr0.5CoO3-δ (SSC) [12, 13], Ba0.5Sr0.5Co0.8Fe0.2O3-δ (BSCF) [14, 15], SrCo0.8Nb0.1Ta0.1O3-δ [16], etc. Although some of the cobalt-containing cathodes show a high electrochemical performance, there are still some factors restricting its commercial application, such as high thermal expansion coefficients (TEC) and high cost. In recent years, cobalt-free cathodes have begun to be widely concerned. Such as, SrFe0.85Ti0.1Ni0.05O3-δ [17], SrFe0.95Nb0.05 O3-δ [18], etc. For anions doping, it is reported that anions doping in the oxygen anions sites can cause some interesting phenomena, such as Cl-[19] or F-[20]. Peng RR and co-workers stated that F- doping perovskite-type oxide BaCe0.8Sm0.2O3-δ as for electrolyte or cathode for proton-conducting solid oxide fuel cells (H-SOFCs) can effectively improve the long-term stability of the cell and electrochemical performance [20].
+Herein, for the first time, we demonstrate that anions doping can enhance the electrochemical properties of cathode materials for proton-conducting solid oxide fuel cells (H-SOFCs). Fluoride anions doping in oxygen site, and cobalt-free Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δ were selected as the parent perovskite oxides in this study. In addition, the theoretical calculation of the effect of F--doping on the performance of the cell is explained. By applying first-principles calculations based on DFT, the impact of ion doping on the improvement of material properties can be further evaluated from the perspective of the electronic structure of the material, the formation energy of oxygen vacancies and the activation energy of migration. In the first-principles calculations of SOFC, most of them are related to the study of cations doping modification. The first-principles calculation of anions doping is still rare.
+	EXPERIMENTAL
+	Powder Synthesis
+Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δF0.1 (BCFSYF) powders were synthesized by a citric acid-nitrate gel combustion method - Stoichiometric amount of Ba(NO3)2 (analytical reagent), Ca(NO3)2•4H2O (analytical reagent), Fe(NO3)3•9H2O (analytical reagent), SnO2 (analytical reagent), Y(NO3)•6H2O (analytical reagent) and BaF2 (analytical reagent) were dissolved in deionized water at 80°C, and citric acid as the complexation agent. The molar ratio of citric acid/total metal ions was 1.5. The pH value of the solution was adjusted to around 7 by adding NH3•H2O. The solution was heated to Combustion, resulting in ash which was calcined at 1000 °C for 3 h to form BCFSYF powders. 
+	Cell Fabrication
+NiO-BZCY7composite powders are with a weight ratio of 65:35. In order to get sufficient porosity for the anode layer, 20% starch was added to the NiO-BZCY7 composite powders. The half cells NiO-BZCY7 (anode)/BZCY7 (electrolyte) were fabricated by dry-pressing and co-fired at 1320°C for 5 h. The as-prepared BCFSYF and 30% SDC powders were mixed into ethanol solution, which was then ball-milled to achieve well-dispersed slurry. The as-obtained slurry was dried in drying chamber at 80°C for 24h. And then BCFSYF-SDC powders were grinded thoroughly with the 6 wt% ethylcellulose-terpineol binder to form the cathode slurry, which was painted on the electrolyte membrane and co-fired at 950°C for 3 h to form a single cell with the effective cathode area of 0.195 cm2. Silver paste painted on cathode layer of the cell, was used as the current collector.
+	Electrochemical Test
+Single cell was tested from 550 to 700°C. Humidified H2 (~3%H2O) as the fuel at a flow rate of 40 mLmin-1 was pumped in anode side and air in cathode side. The I-V experimental data of the cells were measured by DC Electronic Load (ITech Electronics modelIT8511). AC impedance spectra of the cells were measured by impedance analyzer (CHI604B, Shanghai Chenhua) under open circuit conditions at an amplitude signal of 5 mV. The frequency range is from 100 kHz to 0.1 Hz. 
+	Material Characterization
+The phase of the obtained powders was examined by X-ray diffractometer (XRD) with Cu Kα radiation. The morphology and microstructure of the electrolyte and cathode of cells as well as the interface between electrolyte and cathode layers were observed via a scanning electron microscopy (SEM, JEOL JSM-6700F). 
+The electrical conductivity of the sample was obtained via a 4-probe DC method in air from 300°C to 800°C at intervals of 50°C. Cathode powder was prepared by pressed corresponding powders under the pressure of 200Mpa for 5 minutes sintered at 1250°C for 5 hours to obtain dense bar-shaped specimens with the geometric dimensions of 1 mm * 6 mm *10 mm for conductivity testing. Silver wires worked as the current leads and voltage probes.
+X-ray photoelectron spectroscopy (Thermo ESCALAB 250Xi) with an Al Kα X-ray source was used to determine the O1s binding energy of surface oxygen species, and the detailed electronic structure information of Fe 2p in the samples. It reveals that the incorporation of fluorine into the BCFSY phase by the presence of fluorine signal.
+2.5. Computational Details
+First-principles calculations within the framework of the density functional theory (DFT) were adopted to study the oxygen vacancy formation and migration energies by the Vienna ab initio simulation package (VASP) [Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals. Phys. Rev. B 47, 558–561 (1993).][ Kresse, G. & Furthmu¨ller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. Phys. Rev. B 54, 11169–11186 (1996).] 。 
+a generalized gradient approximation (GGA) due to Perdew-Burke-Ernzerhof (PBE)[ Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple. Phys. Rev. Lett. 77, 3865–3868 (1996).] was adopted to describe electron–electron exchange-correlation effect and ion-electron interactions were described by projector-augmented-wave (PAW) potentials [Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method. Phys. Rev. B 59, 1758–1775 (1999).].The GGA+U(Ueff = 4 eV) calculations were applied to d electrons. Spin-polarised calculations with ferromagnetic (FM) state were applied in all calculations[Phys. Chem. Chem. Phys., 2015, 17, 24011-24019.].
+ we carried out the spin-polarization method, with the projector-augmented-wave method (PAW)[21] using the Perdew-Burke-Ernzerhof (PBE) exchange-correlation implemented in. All elements we used the recommended PAW potentials in the VASP manual. In order to simulate the structure of BFO doped under experimental conditions，we constructed a cubic perovskite BFO. The kinetic energy cutoff was set to 520 eV and the energy convergence criterion was 10-4 eV per unit cell. In the structure optimization performance, the Hellmann–Feynman force on each atom was smaller than 0.03 eVÅ-1. Ferromagnetic (FM) states were applied in the calculations[24].The Brillouin zonewas sampled with the 3 x 3 x 3 Monkhorst-Pack mesh k-points [25] for all energy calculations, the ８x８x８for DOS calculations. 
+The oxygen-vacancy formation energies (EOV) [26, 27] was calculated by EOV = Edef,v + 1/2(∆ho+EO2) - Eper, where Edef,v and Eper corresponds to the energy of the vacancy defective structure and perfect bulk structures, overbinding correction term ∆ho = 1.36ev [28]  for the gas-phase triplet O2 energy Eo2.The climbing image-nudged elastic band (CI-NEB) method [29] is adopted to calculate the oxygen migration barriers in the lattice.
+	RESULTS AND DISCUSSION
+3.1. Structural Analysis 
+  
+Figure.1. XRD patterns of NiO-BZCY7, BZCY7, BCFSY, BCFSYF power fired at 1000 °C for 3 h.
+XRD patterns of NiO-BZCY7, BZCY7, BCFSY, BCFSYF power was fired at 1000°C for 3 h shown in Fig.1. It can be seen that all powders exhibit pure perovskite-phase structures, and no secondary phase was detected. Compared with BCFSY, the diffraction peaks of BCFSYF shift to a lower angle. This is because of F- substitution in the oxygen site, will be in the form of F_O^., F_O^. and the metal cation with the same positive charge, will produce repulsion, which favorable increase lattice parameters. However, the ionic radius of F- (1.33Ȧ) is smaller compared with that of O2- (1.40 Ȧ), which will weaken the effect of repulsion between F_O^. and metal cations on the increase of lattice parameter. Overall, the effect of the two factors increases the lattice parameters, which favorable increase the migration rate of lattice oxygen. It has been reported that interfacial chemical reactions between the electrolyte and cathode could lead to degradation of the fuel cell performance and unfavorable for the long-term operation of SOFCs [30]. In order to investigate the chemical compatibility between the BZCY electrolyte and BCFSYF cathode, BZCY electrolyte powder and BCFSYF cathode powder were mixed with weight ratio 1:1, grind for 20 minutes and then calcined at 1000°C for 3 h. The XRD patterns of BCFSYF+BZCY, as indicated in Fig .1, it can be observed that no by-product phrase appeared and all the diffraction peaks can still be well-indexed based on a simple mixture of the perovskite phase BZCY and perovskite phase BCFSYF. The results indicate that no chemical reaction occurs between BCFSYF cathode and BZCY electrolyte materials, generating other phases, and BCFSYF cathode materials are well-matched thermochemically with the BZCY electrolyte in H-SOFCs. 
+  
+Figure.2. a)XPS full survey spectra and; b) magnifed XPS survey spectra of BCFSYF powders.
+Fig.2(a) shows the XPS spectra of the surface chemical states of the BCFSY and BCFSYF powders. By a comparative study of X-ray photoelectron pectra (XPS) of BCFSY and BCFSYF, it can be observed that F- was successful doped into the perovskite lattices for BCFSYF0.1. Core levels of Fe 2p, Sn 3d, Ba 3d, Ca 2p, Y 3d and O 1s can be identified in the survey spectroscopy. From Fig.2(b) the magnifed XPS survey spectra , a peak at a binding energy of 684 ev, which can be assigned to the F 1s signal [31, 32] appeared for BCFSYF oxides. This result verifies that, F- has partially substituted O2- in the perovskite lattice.
+
+
+
+
+
+
+3.2. Electronic Conductivity
+     
+Figure.3. The electrical conductivity curves of BCFSY and BCFSYF.
+             〖 F〗_F^× + O_O^x = F_O^. + e + 1/2O2                       (1)
+Electrical conductivity is mainly dependent on the transport of electrons which is necessary for a cathode material to ensure efficient current collection. The electrical conductivities of BCFSY and BCFSYF vs. temperature are presented in Fig. 3. It is clear that all electronic conductivity shows a transformation from semiconductor to metal conductor and embedding anions (F-) in oxygen sites favorable increase electrical conductivity. This phenomenon consistent with calculated result. The maximum electrical conductivity are 8, 9.5 S/cm for BCFSY, BCFSYF, respectively, at 500°C. Analogous to that of previously studied doped BaFeO3-δ [33-35], including Ba0.95La0.05FeO3-δ (maximum conductivity: ~11 S cm-1) [33]. Ba0.95Ca0.05Fe0.95In0.05O3-δ (maximum conductivity: ~9.27 S cm-1) [34] and BaFe0.95Sn0.05O3-δ (maximum conductivity: ~9.27 S cm-1) [35]. As shown in Formula (1): F- substitution in the oxygen site, will be in the form of F_O^., F_O^. with the positive charge. Therefore, electronic compensation is needed to keep the charge balance, which favorable increase electrical conductivity and increase the activity of the cathode. 
+3.2.1 DET calculations of the electronic structure
+	The increase in conductivity can be explained by changes in DOS before and after doping (as shown in Figure .4.).
+	While BFO shows partially filled bands that is agreement with the report [46]，BFOF exhibits the metallic structure too. The band gap of the minority spin state decreases from 1.31 eV for BFO to 1.09 eV for BFOF respectively indicates that F doping is conducive to the increase of electron conductance.
+ 
+Figure.4. DOS of BFO and BFOF
+3.3. Electrochemical Evaluation
+3.3.2. Single-cell performance
+ 
+Figure.5. The cross-sectional morphology of the Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1-SDC and the surface of the electrolyte after testing.
+In order to investigate the effect of F- doping into the perovskite oxygen lattice on the electrochemical performance, single cells with an NiO-BZCY anode-supported BZCY electrolyte and BCFSY or F--doped BCFSY cathode were built, and the single-cell performance of both BCFSY and F--doped BCFSY perovskite oxides were measured by DC Electronic Load. The microstructures of all single cells, subjected to scanning electron microscopy (SEM, JEOL JSM-6700F) observation,.
+Fig.5. shows the SEM images of the single cells with the structure of NiO-BaZr0.1Ce0.7Y0.2O3-δ(NiO-BZCY7)|BZCY7|Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δF0.1-SDC. In Fig. 5(a), it can be observed that the interface performance good adhesion without any delamination between the cathode and the electrolyte; meanwhile, it is also good interface combination between anode and electrolyte. Fig. 5(b) shows that surface morphology of electrolytes, it can be observed that the electrolyte is quite dense without pores or cracks. Fig. 5(c) shows that the morphology of the cathode, as can be observed that the cathode has a smaller particle size which favorable increases the active sites of the oxygen reduction reaction. Meanwhile, cathode has a porous structure which facilitates the transport of oxygen.
+   
+Figure.6. I-V and I-P curves of: (a) single cells with BCFSY and BCFSYF cathodes at 700°C; (b) Ba0.95Ca0.05Fe0.85Sn0.05Y0.1 O3-δF0.1-SDC cathode at 550-700°C.
+The pattern I-V and I-P curves of single cells with BCFSY and F--doping BCFSY cathode at 700°C are presented in Fig.6. The information of MPDs and the OCVs of different single cells are all presented in Table 1. As can be observed from Table 1, the maximum power densities are 961, 1064 mWcm-2 for BCFSY, BCFSYF0.1, respectively at 700°C, corresponding to open-circuit voltages (OCVs) of single cells with BCFSY and F-doping BCFSY cathode, are 0.964, 0.972 V, at 700°C, respectively. Fig.6(A) show that I-V and I-P curves of single cells with BCFSY and BCFSYF cathodes at 700°C; it can see that at the same temperature, F--doping BCFSY cathode exhibited higher maximum power densities than the parent BCFSY oxide. Fig.6(b) shows I-V and I-P curves of the single cell with Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1-SDC cathode at 550-700°C, and the maximum power densities are 344, 641, 901, 1064 mWcm-2 at 550°C, 600°C, 650°C and 700°C, respectively. Which is higher than that of similar cells by applying other cobalt-free ferrite-based cathode materials [35-37], and even higher than the cells with cobalt-containing cathodes, such as, SrCo0.8Fe0.1Ga0.1O3-d (504 mWcm-2 at 800 °C) [38], SSC-SDC (665 mWcm-2 at 700 °C) [13], BaCo0.7Fe0.22Sc0.08O3-d (760 mWcm-2 at 650°C) [39]. The MPDs and OCVs values confirm that anions doping is feasible to improve the electrochemical performance of the cell.
+Table 1
+The OCVs and the MPDs of single cells with Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1 and Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δ as cathode measured from 550 to 700°C.
+
+		BCFSY		BCFSYF
+		OCV(V)	MPD(mWcm-2)		OCV(V)	MPD (mWcm-2)
+700℃		0.964	961		0.972	1064
+650℃		0.993	807		0.995	901
+600℃		1.014	505		1.035	643
+550℃		1.035	303		1.055	344
+3.3.2. Impedance analysis
+  
+Figure.7. (a) Impedance spectra of BCFSYF cathodes at different temperatures. (b) the interfacial polarization resistances of BCFSY and BCFSYF measured under open-circuit conditions at different temperatures.
+Fig.7a shows the electrochemical impedance spectra (EIS) curves of the single cell with BCFSYF cathode measured at 550-700°C. The BCFSY and F--doping BCFSY cathode polarization resistances measured at 550-700°C are depicted in Fig. 7b. The ASRs are 0.04875, 0.039 Ωcm2 for BCFSY, BCFSYF in 700°C, respectively. The Ro and Rp of single cells with BCFSY and F-doping BCFSY cathode are shown in Table 2. At same individual test temperature, F--doping BCFSY cathode exhibited lower polarization resistance than the BCFSY parent oxide. It shows that the activity of the cathode increases after F -doping. At the same time, replacement of oxygen by ﬂuorine in cathode materials which favorable decrease cathode polarization resistance, confirms that the catalytic for ORR of perovskite can be improved through proper anions doping. 
+Table 2
+Ro and Rp of single cells with Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1 and Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O3-δ as cathode measured from 550 to 700℃.
+
+		BCFSY		BCFSYF
+		Ro(Ω.cm2)	Rp(Ωcm2)		Ro(Ω.cm2)	  Rp(Ωcm2)
+700℃		0.185	0.048		0.195	0.039
+650℃		0.207	0.096		0.225	0.068
+600℃		0.250	0.243		0.262	0.156
+550℃		0.280	0.565		0.341	0.409
+3.4. XPS Analysis
+   
+Figure.8. a) XPS of O 1s peaks; b) XPS of Fe 2p peaks for the BCFSY, BCFSYF0.1 samples.
+In order to explain the reason that anions F- doping leads to the increase of  power density and the decrease of polarization resistance of the cell. BCFSY and BCFSYF0.1 oxides were subjected to XPS characterization. Figure 8(a) exhibits that, the O1s binding energy of the lattice oxygen species is 528.46, 528.5 eV for BCFSY and BCFSYF, respectively. It can be noticed that embedding anions (F-) in oxygen sites favorable increase BCFSYF cathode materials O1s binding energy. The increased O1s binding energy may be a result from the electronegativity of F(4.0) is higher than O(3.44), which demonstrate fluorine attract electrons better than oxygen. Causes the valence electron density of oxygen ions to decrease and the chemical bond between oxygen ions and metal cations ions weaken, forming an efficient O2- transport path, which will significantly improve the mobility of lattice oxygen and oxygen transmittance, indicates that the activity of lattice oxygen increases [40] .
+Figure.8b provides the detailed electronic structure information of Fe 2p in the samples. It can be see that embedding anions (F-) in oxygen sites can make both the binding energies of Fe4+ and Fe3+ gradually inclined. The decreased binding energy for metal ions implies the bonding energy of B-site cations and oxygen ions is lower, so it is favorable produce faster oxygen mobility on the oxide surface and faster oxygen exchange kinetics on the oxide surface. Thus, this may explain, at least in part, the higher maximum power densities and lower polarization resistances after F− anions doping.
+3.5. Calculation Analysis
+3.5.1. Oxygen vacancy formation and migration analysis
+	To further support the conclusions obtained from the experiment, we calculated the oxygen vacancy formation energies Ef and the migration energies Em using DFT in BFO and BaFeO2.875F0.125（BFOF）respectively, as shown in figure9. 
+   
+Figure.9.The oxygen vacancy formation sites in BFO and BFOF.
+	There is only one unique oxygen position in pristine BFO like the Vo24, the vacancy formation energies is computed to be 0.53 eV which is lower even than BSCF’s [41]. The oxygen vacancy and F could have 7 configurations in BFOF, the vacancy formation energies be summarized in the table3.
+Table 3
+Vacancy formation energies
+VO types	Fe8-VO18	Fe8-VO22	Fe4-VO12	Fe4-VO6	Fe4-VO11	Fe3-VO9	Fe3-VO3
+Ef(ev)	1.02	0.65	0.55	0.57	0.67	0.68	0.63
+In comparison to the pristine BFO, the introduction of F increases the oxygen vacancy formation energies, usually it is bad for the cathode performance but as the vacancy decrease the Stability may be enhanced because of reducing the aggregation probability of oxygen vacancies [46]. Furthermore, the lowest oxygen migration barrier reduces from 0.72 eV for the pristine BFO to 0.59 eV after substituting F（as shown in Figure .10.），indicating generated faster oxygen mobility inside the bulk oxide that benefit the ORR activities for the BFOF in cathode environment[42].
+
+
+
+
+ 
+ 	 
+ 	 
+Figure.10.The oxygen migration energies in BFO and BFOF, The circle arrow indicates the oxygen vacancy migration direction in BFOF.
+ 
+4. CONCLUSIONS
+In summary, we have successfully prepared a new novel cobalt-free cathode material of the fluoride doping Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1 using a citric acid-nitrate gel combustion method for intermediate-temperature proton-conducting solid oxide fuel cells with BaZr0.1Ce0.7Y0.2O3-δ electrolyte, for the first time. The single cell with a structure of NiO–BZCY7|BZCY7/Ba0.95Ca0.05Fe0.85Sn0.05Y0.1O2.9-δF0.1 generated a maximum power density of 1064 mWcm-2 at 700°C. The polarization resistance of the BCFSYF cathode was 0.039 Ω cm2 at 700°C lower than BCFSY parent oxides cathode. By doping with an appropriate amount of F− ions in oxygen site, the obtained perovskite oxyﬂuoride cathode materials showed improved oxygen reduction activity compared with its parent oxides cathode, and such enhanced activity was explained by the related calculation. The DFT calculation shows the effect of a certain amount of F doping. First, the effect of higher vacancy formation due to higher vacancy formation energy, while the lower oxygen migration barrier for the BFOF indicates that the lattice oxygen migration activity is enhanced, the combined effect of these two effects predicts that appropriate F doping will make BFOF possess Better stability and oxygen catalytic activity. The final analysis of BFOF has higher conductivity due to the changes of the DOS. These results are consistent with the experimental results. In particular, a combination of anions and cations doping may provide a useful strategy for developing highly active and stable perovskite materials as cathodes for IT-SOFCs.
+
+Acknowledgements
+This work is supported by the National Natural Science Foundation of China (NSFC) under Grant No.61671423 and Grant No.61271403.
+
+
+References
+[1] E. D. Wachsman, C. A. Marlowe, K. T. Lee, Energy Environ. Sci. 2012, 5, 549.
+[2] W. Wang, C. Su, Y. Wu, R. Ran, Z. Shao, Chem. Rev. 2013, 113, 8104.
+[3] A. Murata, C. X. Hai, M. Matsuda, Mater. Lett. 2014, 136, 292.
+[4] J.G. Lee, J.H. Park, Y.G. Shul, Tailoring gadolinium-doped ceria-based solid oxide fuel cells to achieve 2 W cm-2 at 550 °C, Nat. Commun. 5 (2014) 4045.
+[5] S. Yoo, A. Jun, Y. W. Ju, D. Odkhuu, J. Hyodo, H. Y. Jeong, N. Park, J. Shin, T. Ishihara, G. Kim, Angew. Chem., Int. Ed. 2014, 53, 13064.
+[6] Wachsman E D, Lee K T. Lowering the Temperature of Solid oxide fuel cells. Science 2011;334:935-9.
+[7]L.Q. Gui, Y.H. Ling, G. Li, Z.H. Wang, Y.H. Wan, R.R. Wang, B.B. He, L. Zhao
+J. Power Sources, 301 (2016), pp. 369-375.
+[8]L. Bi, E.H. Da'as, S.P. Shafi Electrochem. Commun., 80 (2017), pp. 20-23.
+[9]D.L. Han, Y. Otani, Y. Noda, T. Onishi, M. Majima, T. Uda Rsc Adv., 6 (2016), pp. 19288-19297.
+[10] Sun C, Hui R, Roller J. Cathode materials for solid oxide fuel cells: a review. J Solid State Electrochem 2009;14:1125-44.
+[11] Y. Zhu, W. Zhou, Y. Chen, Z. Shao, Angew. Chem., Int. Ed. 2016, 55, 8988.
+[12] E.P. Murray, M.J. Sever, S.A. Barnett, Solid State Ionics 148 (2002) 27-34.
+[13] Sun WP, Yan LT, Lin B, Zhang S, Liu W. High performance proton-conducting solid oxide fuel cells with a stable Sm0.5Sr0.5Co3−δ–Ce0.8Sm0.2O2-δ composite cathode. J Power Sources 2010;195:3155-8.
+[14] Z. P. Shao, S. M. Haile, Nature 2004, 431, 170.
+[15] Y. Lin, R. Ran, Y. Zheng, Z. Shao, W. Jin, N. Xu, J. Ahn, Evaluation of  Ba0.5Sr0.5Co0.8Fe0.2O3−δ as a potential cathode for an anode-supported proton-conducting solid-oxide fuel cell, J. Power Sources 180 (2008) 15-22.
+[16] M. Li, M. Zhao, F. Li, W. Zhou, V. K. Peterson, X. Xu, Z. Shao, I. Gentle, Z. Zhu, Nat. Commun. 2017, 8, 13990.
+[17] G. Yang et al /.ACS Appl. Mater. Interfaces 2016, 8, 35308-35314.
+[18]R.-h. Yuan et al. / Materials Letters 200 (2017) 75–78.
+[19]H. Dai, C. F. Ng, C. T. Au, J. Catal. 2000,189, 52.
+[20]F. Su et al. / Journal of the European Ceramic Society 35 (2015) 3553–3558.
+[21]Blochl, P. E. Projector augmented-wave method. Phys. Rev. B 50, 17953-17979 (1994).
+[22]Kresse, G. & Furthmu ¨ller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. Phys. Rev. B 54, 11169-11186 (1996).
+[23]Kresse, G.&Hafner, J.Abinitio molecular dynamics for liquid metals. Phys. Rev.B 47, 558–561 (1993).
+[24]Phys. Chem. Chem. Phys., 2015, 17, 24011-24019.
+[25]Monkhorst, H. J.&Pack, J. D. Special points for Brillouin-zone integrations. Phys. Rev. B 13, 5188–5192 (1976).
+[26]Mastrikov, Y. A., Kuklja, M. M., Kotomin, E. A. & Maier, J. First-principles modelling of complex perovskite (Ba12xSrx)(Co12yFey)O32d for solid oxide fulel cell and gas separation membrane applications. Energy Environ. Sci. 3, 1544-1550 (2010).
+[27]Choi, Y., Lin, M. C. & Liu, M. Rational design of novel cathodematerials in solid oxide fuel cells using first-principles simulations. J. Power Sources 195, 1441-1445 (2010).
+[28]Wang, L.; Maxisch, T.; Ceder, G. Oxidation energies of transition metal oxides within the GGA+U framework. Phys. Rev. B: Condens. Matter Mater. Phys. 2006, 73, 195107-1−195107-6.
+[29]Henkelman, G.; Jonsson, H. Improved tangent estimate in the nudged elastic band method for finding minimum energy paths and saddle points. J. Chem. Phys. 2000, 113, 9978−9985.
+[30] L. Yang, C. Zuo, S. Wang, Z. Cheng, M. Liu, Adv. Mater. 2008, 20, 3280.
+[31] J. Zhu, G. Liu, Z. Liu, Z. Chu, W. Jin, N. Xu, Adv. Mater. 2016, 28, 3511.
+[32] E. J. Moon, Y. Xie, E. D. Laird, D. J. Keavney, C. Y. Li, S. J. May, J. Am. Chem. Soc. 2014, 136, 2224.
+[33] F. Dong, D. Chen, Y. Chen, Q. Zhao, Z. Shao, J. Mater. Chem. 22 (2012) 15071-15079.
+[34]J. Wang et al. / Journal of Power Sources 324 (2016) 224-232.
+[35] F. Dong et al. / Journal of Power Sources 326 (2016) 459-465.
+[36] D. Shan et al./ Ceramics International 43 (2017) 3660–3663.
+[37] XQ. Song et al. / Internation Jiurnal of Hydrogen Energy 42(2017)15808-15817.
+[38]X. Meng et al. / Journal of Alloys and Compounds 727 (2017) 27-33
+[39] W. He et al. / Internation Jiurnal of Hydrogen Energy 42(2017)25021-25025.
+[40] H. X. Dai, H. He, C. F. Ng, C. T. Au, J. Mol. Catal. A: Chem. 2001, 171, 217.
+[41]E. A. Kotomin,ECS Transactions, 35 (1) 823-830 (2011).
+[42]Zhan ZP, Adv. Energy Mater. 2017, 7, 1700242.
+
+
